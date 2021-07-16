@@ -1,3 +1,4 @@
 # malaria detection
 
-this project use (MobileNet) pretrained model to predect malaria from human blood
+this project uses a pre-trained model(MobileNet) and Cell images to
+predict malaria from human blood cell  images in the future
