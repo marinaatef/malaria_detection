@@ -1,3 +1,3 @@
 # malaria detection
 
-this project use () pretrained model to predect 
+this project use (MobileNet) pretrained model to predect malaria from human blood
